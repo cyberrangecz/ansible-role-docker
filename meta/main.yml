@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Tomas Sapak
+  company: CyberSecurity Hub, z.s.
+  min_ansible_version: '2.14'
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
